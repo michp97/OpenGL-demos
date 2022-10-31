@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1621363165 source:d:\szko³a\projektowanie gier\bilard 2\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<iostream>
+
+1667217672 source:c:\users\snaki\desktop\nowy folder\bilard 2\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615988515 source:c:\users\snak\desktop\projekt 2\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1615992115 source:d:\szko³a\projektowanie gier\projekt 2\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
